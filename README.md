@@ -19,6 +19,8 @@ Built an end-to-end forecasting pipeline — from data cleaning and EDA to featu
 - **MAPE: 10.4%**
 - **RMSE: ~1003**
 - Historical sales trends turned out to be the strongest predictor — more than promotions or store type.
+- ![Feature Importance](images/feature_importance.png)
+- ![Actual vs Predicted Sales](images/actual_vs_predicted.png)
 
 ## Tech Stack
 Python · pandas · matplotlib · scikit-learn · Jupyter Notebook
